@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cell-Counter</string>
+    <color name="black">#00001a</color>
+    <color name="white">#ffffff</color>
 </resources>
